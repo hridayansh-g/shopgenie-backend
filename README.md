@@ -2,7 +2,6 @@
 
 #### `README.md` (for shopgenie-server)
 
-```md
 # 🛠️ ShopGenie Server (Backend)
 
 This is the backend service for the **ShopGenie** mobile application, a smart assistant for in-store navigation, product scanning, and simulated payments. Built with **Express.js** and **MongoDB**, it provides all necessary RESTful APIs for product data, payment processing, QR code generation, and popularity tracking.
@@ -30,6 +29,7 @@ git clone https://github.com/hridayansh/shopgenie-server.git
 cd shopgenie-server
 npm install
 npm run dev
+```
 
 ## Make sure to create a .env file with your MongoDB URI:
 MONGODB_URI=your_mongodb_connection_string

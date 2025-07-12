@@ -34,8 +34,6 @@ npm run dev
 ## Make sure to create a .env file with your MongoDB URI:
 MONGODB_URI=your_mongodb_connection_string
 
-## 🌍 Deployed API
-🔗 https://shopgenie-backend-lm88.onrender.com
 
 ## 📄 License
 This project is open-source and made for educational use.

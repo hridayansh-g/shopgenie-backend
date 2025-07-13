@@ -37,6 +37,9 @@ MONGODB_URI=your_mongodb_connection_string
 ## 🔗 Live Project
 https://shopgenie.netlify.app/
 
+## YouTube Video
+https://www.youtube.com/watch?v=3JlimatB304
+
 ## 📄 License
 This project is open-source and made for educational use.
 

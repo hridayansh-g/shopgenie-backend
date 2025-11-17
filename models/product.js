@@ -15,7 +15,7 @@ const productSchema = new mongoose.Schema({
   stock: { type: Number, required: true },
   location: locationSchema,
   qrCodeId: { type: String, required: true, unique: true },
-  popularity: { type: Number, default: 0 }, // ✅ add this
+  popularity: { type: Number, default: 0 }, 
 });
 
 module.exports = mongoose.model('Product', productSchema);
